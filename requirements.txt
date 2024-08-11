@@ -2,12 +2,12 @@ flask
 Werkzeug==2.2.2  
 
 #--Main----#
-git+https://github.com/MKN-BOTZ/pyrogram 
+#git+https://github.com/MKN-BOTZ/pyrogram
+pyrogram==2.0.106
 tgcrypto==1.2.5
 aiofiles==22.1.0     
 aiohttp==3.8.3
 requests
-pyromod==1.5
 bs4==0.0.1
 
 #---database---#
